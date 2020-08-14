@@ -1,0 +1,9 @@
+{
+    "scripts": {
+        "test": "jest"
+    },
+    "dependencies": {
+        "browserify": "^16.5.1",
+        "jest": "^26.1.0"
+    }
+}
